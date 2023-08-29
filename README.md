@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna3&label=Profile%20views&color=0e75b6&style=flat" alt="krushna3" /> </p>
 
-- 🔭 I’m currently working on [KitchenHere](https://github.com/krushna3/Kitchen_Here)
+- 🔭 I’m currently working on [Vidyutva](https://vidyutva.com/)
 
-- 🌱 I’m currently learning **Next.js,AWS**
+- 🌱 I’m currently learning **Next.js,Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krushna3](https://github.com/krushna3)
 
